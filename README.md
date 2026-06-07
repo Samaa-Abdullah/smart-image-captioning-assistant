@@ -52,8 +52,6 @@ Arab Open University
 
 Faculty of Computer Studies
 
-TM471 Final Year Project
-
 Project Grade: Excellent
 
 ---
